@@ -3,3 +3,11 @@ The dataset consists of two files, training and validation. Each folder contains
 
 
 Dataset is downloade from : https://www.kaggle.com/slothkong/10-monkey-species
+
+
+
+Accuracy:
+Using CNN : 70.96 %
+
+Using Transfer Learning:
+VGG16: 83.09 %
