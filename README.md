@@ -5,9 +5,17 @@ The dataset consists of two files, training and validation. Each folder contains
 Dataset is downloade from : https://www.kaggle.com/slothkong/10-monkey-species
 
 
+I have performed these experiments using Google colab and dataset are stored on my Google drive. So directory path is my Google drive path.
 
-Accuracy:
-Using CNN : 70.96 %
 
-Using Transfer Learning:
-VGG16: 83.09 %
+| Model architecture  | Accuracy (%)  |
+| --------------------| ------------- |
+| CNN Model           | 70.96         |
+| Transfer_Learning_VGG19 |78.31 |
+| Transfer_Learning_VGG16 | 83.09  |
+| Transfer_Learning_ResNet50V2 | 95.59 |
+| Transfer_Learning_MobileNetV2 | 95.96  |
+| Transfer_Learning_InceptionV3|96.32 |
+| Transfer_Learning_DenseNet201 | 97.06  |
+
+
